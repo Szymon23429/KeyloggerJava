@@ -1,5 +1,7 @@
 Keylogger (Java Swing)
+
 English
+
 An educational keylogger project in Java with a GUI in Swing.  
 The program logs typed characters in the application window to a file and allows you to export logs to CSV and HTML.  
 
@@ -14,7 +16,9 @@ Running
 1. Clone the repository:
 ``bash
 git clone https://github.com/Szymon23429/KeyloggerJava.git
+
 Polish
+
 Projekt edukacyjny keyloggera w Javie z GUI w Swing.  
 Program loguje wpisywane znaki w oknie aplikacji do pliku i umożliwia eksport logów do CSV i HTML.  
 
